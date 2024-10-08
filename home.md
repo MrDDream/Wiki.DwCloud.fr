@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2024-10-08T14:16:19.625Z
+date: 2024-10-08T14:17:22.694Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T14:09:56.966Z
@@ -20,4 +20,3 @@ dateCreated: 2024-10-08T14:09:56.966Z
 
 > Ce projet est disponible grâce à [Wiki.js](https://js.wiki/) (Merci à eux !)
 {.is-info}
-TEST
